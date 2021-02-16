@@ -1,0 +1,13 @@
+{
+    "name": "MasterToko",
+    "alias": "mastertoko",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\MasterToko\\Providers\\MasterTokoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
